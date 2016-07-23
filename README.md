@@ -1,6 +1,6 @@
-# Think Machine Learning, Volume 1: Precalculus for Programmers
+# An Introduction to the Mathematics of Machine Learning
 
-**Develop your mathematical intuition for machine learning algorithms! This book guides you through the fundamentals of algebra and trigonometry using intuitive explanations, hands-on code examples, and well-chosen exercises.**
+**Develop your mathematical intuition for machine learning algorithms! This book guides you through the fundamentals of algebra, linear algebra, calculus, optimization theory, probability theory, statistics using hands-on code examples, and well-chosen exercises.**
 
 ![](./images/cover.jpg)
 
@@ -10,11 +10,11 @@ This complementary GitHub repository contains the exercises, code examples, and 
 
 ## Links
 
-- [https://leanpub.com/ml-precalc](https://leanpub.com/ml-precalc)
+- [https://leanpub.com/math-for-machinelearning](https://leanpub.com/math-for-machinelearning.)
 
 ## About the book
 
-- Publication date: est. 2016
+- Publication date: est. Q2 2017
 - Formats: epub, mobi, paperback
 - Pages: 450 (paperback)
 - ISBN-10: [TBA]
