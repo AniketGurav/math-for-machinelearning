@@ -1,6 +1,6 @@
 # An Introduction to the Mathematics of Machine Learning
 
-**Develop your mathematical intuition for machine learning algorithms! This book guides you through the fundamentals of algebra, linear algebra, calculus, optimization theory, probability theory, statistics using hands-on code examples, and well-chosen exercises.**
+**Develop your mathematical intuition for machine learning algorithms! This book guides you through the fundamentals of linear algebra, calculus, optimization theory, probability theory, and statistics using hands-on code examples, and well-chosen exercises.**
 
 ![](./images/cover.jpg)
 
