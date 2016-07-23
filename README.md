@@ -10,7 +10,7 @@ This complementary GitHub repository contains the exercises, code examples, and 
 
 ## Links
 
-- [https://leanpub.com/math-for-machinelearning](https://leanpub.com/math-for-machinelearning.)
+- [https://leanpub.com/math-for-machinelearning](https://leanpub.com/math-for-machinelearning)
 
 ## About the book
 
